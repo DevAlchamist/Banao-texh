@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+
+.fullw {
+  width: 100%;
+}
+
+.fullh {
+  height: 100%;
+}
+
+.no-outline{
+  --bs-btn-focus-shadow-rgb: none;
+ }
+ 
